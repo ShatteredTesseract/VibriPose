@@ -9,6 +9,14 @@
             ],
             "x": 37,
             "y": 723
+        },
+        {
+            "name": "PJBerri text; Border;",
+            "sources": [
+                "https://cdn.discordapp.com/attachments/1121899132433473679/1133162382433190028/PJberri.png"
+            ],
+            "x": 34,
+            "y": 742
         }
         
     ],
