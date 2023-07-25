@@ -13,7 +13,7 @@
         {
             "name": "VibriPose text; Border;",
             "sources": [
-                "https://cdn.discordapp.com/attachments/1121899132433473679/1133299648308707439/vibriPose6.png"
+                "https://cdn.discordapp.com/attachments/1121899132433473679/1133301252172828713/vibriPose7.png"
             ],
             "x": 37,
             "y": 723
